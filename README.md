@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Angel
 
-<!--
-**ADMI-Gr/ADMI-Gr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Development Student  
+🚀 Building projects with Flutter & Dart  
+📱 Interested in mobile apps, backend fundamentals & real-world solutions  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Tech Stack
+- 💙 Flutter / Dart
+- 🗄️ MySQL (basics)
+- 🌐 HTML, CSS, JavaScript
+- 🔧 Git & GitHub
+
+---
+
+## 📊 GitHub Stats
+![Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=AngelMorataya&show_icons=true&theme=tokyonight)
+
+---
+
+## 🚀 Featured Projects
+🔹 **LocalPlace**  
+App for small businesses: inventory, sales & clients management.  
+_(Flutter · In progress)_
+
+🔹 **Practice Projects**  
+Small apps and exercises to improve logic and clean code.
+
+---
+
+## 📫 Let's connect
+- GitHub: @AngelMorataya
