@@ -7,10 +7,50 @@
 ---
 
 ## 🧠 Tech Stack
-- 💙 Flutter / Dart
-- 🗄️ MySQL (basics)
-- 🌐 HTML, CSS, JavaScript
-- 🔧 Git & GitHub
+
+### 👨‍💻 Languages
+- C#, Java, JavaScript, TypeScript, PHP, Dart
+
+### 🧩 Frameworks & Libraries
+- .NET
+- Flutter
+- React
+- Vue
+- Node.js
+- Bootstrap
+- Tailwind CSS
+
+### 🗄️ Databases
+- MySQL
+- PostgreSQL
+- MongoDB
+- SQLite
+
+### ☁️ Cloud & DevOps
+- Docker
+- Azure
+- Google Cloud
+
+### 🐧 Systems & Other
+- Linux
+- Networking fundamentals
+- Hardware & Software basics
+
+---
+
+## 🛠️ Tools & Environment
+
+- Figma
+- Visual Studio / VS Code
+- Git & GitHub
+- Android Studio
+- Notion / Obsidian
+- draw.io
+- Replit
+- VirtualBox
+- Unity / Godot
+- XAMPP / WAMP
+
 
 ---
 
