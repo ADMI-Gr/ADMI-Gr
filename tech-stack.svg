@@ -1,0 +1,258 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1536" viewBox="0 0 1024 1536" fill="none">
+  
+  <!-- FILA 1: DEVELOPMENT -->
+  <!-- C# Icon -->
+  <g transform="translate(0, 0)">
+    <rect width="256" height="256" rx="60" fill="#239120"/>
+    <path d="M128 64C88 64 56 96 56 136C56 176 88 208 128 208C168 208 200 176 200 136C200 96 168 64 128 64ZM128 192C97.1 192 72 166.9 72 136C72 105.1 97.1 80 128 80C158.9 80 184 105.1 184 136C184 166.9 158.9 192 128 192Z" fill="white"/>
+    <rect x="140" y="100" width="8" height="72" fill="white"/>
+    <rect x="108" y="100" width="8" height="72" fill="white"/>
+    <rect x="92" y="124" width="72" height="8" fill="white"/>
+    <rect x="92" y="148" width="72" height="8" fill="white"/>
+  </g>
+
+  <!-- Java Icon -->
+  <g transform="translate(256, 0)">
+    <rect width="256" height="256" rx="60" fill="#ED8B00"/>
+    <path d="M100 180C100 180 90 186 106 188C126 190 137 189 158 186C158 186 163 189 170 192C132 208 82 186 100 180Z" fill="white"/>
+    <path d="M96 156C96 156 85 162 101 164C124 167 141 167 168 163C168 163 172 166 177 168C129 180 76 165 96 156Z" fill="white"/>
+    <path d="M136 108C148 122 133 135 133 135C133 135 160 121 148 102C137 84 128 75 174 54C174 54 112 69 136 108Z" fill="white"/>
+    <path d="M172 200C172 200 179 206 165 211C140 219 85 220 72 211C68 208 76 204 80 203C84 202 86 202 86 202C79 197 49 207 70 212C133 224 182 210 172 200Z" fill="white"/>
+  </g>
+
+  <!-- Dart Icon -->
+  <g transform="translate(512, 0)">
+    <rect width="256" height="256" rx="60" fill="#0175C2"/>
+    <path d="M218 218H38V38H218L128 128L218 218Z" fill="url(#paint0_linear_dart)"/>
+    <defs>
+      <linearGradient id="paint0_linear_dart" x1="218" y1="38" x2="38" y2="218" gradientUnits="userSpaceOnUse">
+        <stop offset="0.00343514" stop-color="#00D2B8"/>
+        <stop offset="0.4689" stop-color="#55DDCA"/>
+        <stop offset="1" stop-color="#0175C2"/>
+      </linearGradient>
+    </defs>
+  </g>
+
+  <!-- Python Icon -->
+  <g transform="translate(768, 0)">
+    <rect width="256" height="256" rx="60" fill="#3776AB"/>
+    <path d="M126 48C95 48 98 62 98 62L98 78H128V82H78C78 82 48 79 48 128C48 177 72 175 72 175H88V153C88 153 87 129 111 129H157C157 129 179 129 179 107V71C179 71 182 48 126 48ZM110 63C114.4 63 118 66.6 118 71C118 75.4 114.4 79 110 79C105.6 79 102 75.4 102 71C102 66.6 105.6 63 110 63Z" fill="url(#paint0_linear_python_top)"/>
+    <path d="M130 208C161 208 158 194 158 194L158 178H128V174H178C178 174 208 177 208 128C208 79 184 81 184 81H168V103C168 103 169 127 145 127H99C99 127 77 127 77 149V185C77 185 74 208 130 208ZM146 193C141.6 193 138 189.4 138 185C138 180.6 141.6 177 146 177C150.4 177 154 180.6 154 185C154 189.4 150.4 193 146 193Z" fill="url(#paint1_linear_python_bottom)"/>
+    <defs>
+      <linearGradient id="paint0_linear_python_top" x1="98" y1="48" x2="98" y2="175" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#387EB8"/>
+        <stop offset="1" stop-color="#366994"/>
+      </linearGradient>
+      <linearGradient id="paint1_linear_python_bottom" x1="158" y1="208" x2="158" y2="81" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#FFE873"/>
+        <stop offset="1" stop-color="#FFC836"/>
+      </linearGradient>
+    </defs>
+  </g>
+
+  <!-- FILA 2: WEB -->
+  <!-- JavaScript Icon -->
+  <g transform="translate(0, 256)">
+    <rect width="256" height="256" rx="60" fill="#F7DF1E"/>
+    <path d="M67 213L83 202C86 207 89 211 95 211C101 211 105 209 105 200V152H124V200C124 219 113 227 96 227C81 227 72 219 67 213Z" fill="#000000"/>
+    <path d="M133 211L149 200C153 207 159 212 169 212C177 212 182 208 182 202C182 195 177 192 168 188L162 185C148 179 139 171 139 156C139 142 150 131 168 131C181 131 190 136 197 148L182 160C179 155 176 153 168 153C160 153 155 158 155 160C155 166 160 169 168 173L174 176C191 183 200 191 200 206C200 223 187 233 170 233C154 233 143 225 137 213L133 211Z" fill="#000000"/>
+  </g>
+
+  <!-- PHP Icon -->
+  <g transform="translate(256, 256)">
+    <rect width="256" height="256" rx="60" fill="#777BB4"/>
+    <ellipse cx="128" cy="128" rx="100" ry="50" fill="none" stroke="white" stroke-width="8"/>
+    <path d="M70 110H90C97 110 102 115 102 122C102 129 97 134 90 134H78V146H70V110ZM78 127H88C91 127 93 125 93 122C93 119 91 117 88 117H78V127Z" fill="white"/>
+    <path d="M110 110H118V126H130V110H138V146H130V133H118V146H110V110Z" fill="white"/>
+    <path d="M146 110H166C173 110 178 115 178 122C178 129 173 134 166 134H154V146H146V110ZM154 127H164C167 127 169 125 169 122C169 119 167 117 164 117H154V127Z" fill="white"/>
+  </g>
+
+  <!-- TypeScript Icon -->
+  <g transform="translate(512, 256)">
+    <rect width="256" height="256" rx="60" fill="#3178C6"/>
+    <path d="M80 110H176V125H145V190H131V125H80V110Z" fill="white"/>
+    <path d="M108 145C108 141 111 138 115 138C119 138 122 141 122 145C122 149 119 152 115 152C111 152 108 149 108 145Z" fill="white"/>
+  </g>
+
+  <!-- Rust Icon -->
+  <g transform="translate(768, 256)">
+    <rect width="256" height="256" rx="60" fill="#000000"/>
+    <path d="M128 56L140 80L168 76L156 100L180 112L156 124L168 148L140 144L128 168L116 144L88 148L100 124L76 112L100 100L88 76L116 80L128 56Z" fill="white"/>
+    <circle cx="128" cy="112" r="36" fill="none" stroke="white" stroke-width="6"/>
+    <path d="M128 90V134M110 112H146" stroke="white" stroke-width="6"/>
+  </g>
+
+  <!-- FILA 3: FRAMEWORKS -->
+  <!-- Flutter Icon -->
+  <g transform="translate(0, 512)">
+    <rect width="256" height="256" rx="60" fill="#02569B"/>
+    <path d="M156 52H196L98 150L78 130L156 52Z" fill="url(#paint_flutter_1)"/>
+    <path d="M98 150L78 170L118 210L158 170L118 130L98 150Z" fill="url(#paint_flutter_2)"/>
+    <path d="M118 130L158 170L118 210L78 170L118 130Z" fill="url(#paint_flutter_3)" opacity="0.6"/>
+    <defs>
+      <linearGradient id="paint_flutter_1" x1="156" y1="52" x2="98" y2="150" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#1FBCFD"/>
+        <stop offset="1" stop-color="#0D92C7"/>
+      </linearGradient>
+      <linearGradient id="paint_flutter_2" x1="78" y1="150" x2="158" y2="210" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#0D92C7"/>
+        <stop offset="1" stop-color="#0566A0"/>
+      </linearGradient>
+      <linearGradient id="paint_flutter_3" x1="78" y1="130" x2="158" y2="210" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#FFFFFF" stop-opacity="0.2"/>
+        <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+      </linearGradient>
+    </defs>
+  </g>
+
+  <!-- .NET Icon -->
+  <g transform="translate(256, 512)">
+    <rect width="256" height="256" rx="60" fill="#512BD4"/>
+    <circle cx="80" cy="128" r="20" fill="white"/>
+    <path d="M115 100L135 128L115 156H125L145 128L125 100H115Z" fill="white"/>
+    <path d="M160 100V156H170V128L190 156H198V100H188V128L168 100H160Z" fill="white"/>
+    <path d="M68 156V162H192V156H68Z" fill="white"/>
+  </g>
+
+  <!-- TailwindCSS Icon -->
+  <g transform="translate(512, 512)">
+    <rect width="256" height="256" rx="60" fill="#38B2AC"/>
+    <path d="M128 88C104 88 91 99 88 121C94 110 101 106 109 109C113 111 116 114 119 117C125 123 132 130 144 130C168 130 181 119 184 97C178 108 171 112 163 109C159 107 156 104 153 101C147 95 140 88 128 88Z" fill="white"/>
+    <path d="M88 130C64 130 51 141 48 163C54 152 61 148 69 151C73 153 76 156 79 159C85 165 92 172 104 172C128 172 141 161 144 139C138 150 131 154 123 151C119 149 116 146 113 143C107 137 100 130 88 130Z" fill="white" opacity="0.7"/>
+  </g>
+
+  <!-- Vue.js Icon -->
+  <g transform="translate(768, 512)">
+    <rect width="256" height="256" rx="60" fill="#4FC08D"/>
+    <path d="M156 68L128 116L100 68H60L128 188L196 68H156Z" fill="white"/>
+    <path d="M156 68L128 116L100 68H76L128 156L180 68H156Z" fill="#34495E"/>
+  </g>
+
+  <!-- FILA 4: LIBRARIES -->
+  <!-- Node.js Icon -->
+  <g transform="translate(0, 768)">
+    <rect width="256" height="256" rx="60" fill="#339933"/>
+    <path d="M128 52L68 88V164L128 200L188 164V88L128 52ZM128 66L176 92V140L128 166L80 140V92L128 66Z" fill="white"/>
+    <path d="M128 80L92 100V136L128 156L164 136V100L128 80Z" fill="white"/>
+  </g>
+
+  <!-- React Icon -->
+  <g transform="translate(256, 768)">
+    <rect width="256" height="256" rx="60" fill="#61DAFB"/>
+    <circle cx="128" cy="128" r="12" fill="#000000"/>
+    <ellipse cx="128" cy="128" rx="60" ry="20" fill="none" stroke="#000000" stroke-width="6"/>
+    <ellipse cx="128" cy="128" rx="60" ry="20" transform="rotate(60 128 128)" fill="none" stroke="#000000" stroke-width="6"/>
+    <ellipse cx="128" cy="128" rx="60" ry="20" transform="rotate(120 128 128)" fill="none" stroke="#000000" stroke-width="6"/>
+  </g>
+
+  <!-- Bootstrap Icon -->
+  <g transform="translate(512, 768)">
+    <rect width="256" height="256" rx="60" fill="#7952B3"/>
+    <path d="M90 70H140C155 70 166 81 166 96C166 106 160 115 151 118C162 121 170 131 170 143C170 158 159 169 144 169H90V70ZM106 112H138C145 112 150 107 150 100C150 93 145 88 138 88H106V112ZM106 151H142C149 151 154 146 154 139C154 132 149 127 142 127H106V151Z" fill="white"/>
+  </g>
+
+  <!-- Express.js Icon -->
+  <g transform="translate(768, 768)">
+    <rect width="256" height="256" rx="60" fill="#000000"/>
+    <path d="M60 100L128 160L196 100M60 120H196M80 140L128 180L176 140" stroke="white" stroke-width="8" fill="none" stroke-linecap="round"/>
+  </g>
+
+  <!-- FILA 5: DATABASES -->
+  <!-- MySQL Icon -->
+  <g transform="translate(0, 1024)">
+    <rect width="256" height="256" rx="60" fill="#4479A1"/>
+    <path d="M90 90C70 100 60 115 60 128C60 155 85 177 116 177C147 177 172 155 172 128C172 115 162 100 142 90" fill="none" stroke="white" stroke-width="8"/>
+    <path d="M90 128V160C90 170 100 177 116 177C132 177 142 170 142 160V128" fill="none" stroke="white" stroke-width="8"/>
+    <ellipse cx="116" cy="128" rx="26" ry="15" fill="white"/>
+    <path d="M155 100V170M155 100C155 100 165 95 175 100M175 100V160C175 167 170 172 165 172" stroke="white" stroke-width="6" fill="none" stroke-linecap="round"/>
+  </g>
+
+  <!-- PostgreSQL Icon -->
+  <g transform="translate(256, 1024)">
+    <rect width="256" height="256" rx="60" fill="#336791"/>
+    <path d="M128 60C100 60 78 82 78 110V146C78 174 100 196 128 196C140 196 151 191 159 183V196H178V110C178 82 156 60 128 60ZM128 78C145 78 159 92 159 110V146C159 163 145 177 128 177C111 177 97 163 97 146V110C97 92 111 78 128 78Z" fill="white"/>
+    <circle cx="128" cy="128" r="15" fill="#336791"/>
+  </g>
+
+  <!-- SQLite Icon -->
+  <g transform="translate(512, 1024)">
+    <rect width="256" height="256" rx="60" fill="#003B57"/>
+    <path d="M128 60L70 90V166L128 196L186 166V90L128 60Z" fill="url(#paint_sqlite)"/>
+    <path d="M128 80L90 100V156L128 176L166 156V100L128 80Z" fill="white"/>
+    <defs>
+      <linearGradient id="paint_sqlite" x1="70" y1="60" x2="186" y2="196" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#0F80CC"/>
+        <stop offset="1" stop-color="#003B57"/>
+      </linearGradient>
+    </defs>
+  </g>
+
+  <!-- MongoDB Icon -->
+  <g transform="translate(768, 1024)">
+    <rect width="256" height="256" rx="60" fill="#47A248"/>
+    <path d="M128 50C115 50 105 65 105 82V110C105 120 110 128 118 132V174C118 180 122 185 128 185C134 185 138 180 138 174V132C146 128 151 120 151 110V82C151 65 141 50 128 50Z" fill="white"/>
+    <ellipse cx="128" cy="82" rx="23" ry="15" fill="#47A248"/>
+    <path d="M125 175L128 200L131 175" stroke="white" stroke-width="4" fill="none"/>
+  </g>
+
+  <!-- SQL Server Icon -->
+  <g transform="translate(0, 1280)">
+    <rect width="256" height="256" rx="60" fill="#CC2927"/>
+    <rect x="60" y="70" width="136" height="116" rx="8" fill="white"/>
+    <rect x="75" y="85" width="30" height="30" fill="#CC2927"/>
+    <rect x="113" y="85" width="30" height="30" fill="#CC2927"/>
+    <rect x="151" y="85" width="30" height="30" fill="#CC2927"/>
+    <rect x="75" y="123" width="30" height="30" fill="#CC2927"/>
+    <rect x="113" y="123" width="30" height="30" fill="#CC2927"/>
+    <rect x="151" y="123" width="30" height="30" fill="#CC2927"/>
+  </g>
+
+  <!-- FILA 6: CLOUD -->
+  <!-- Supabase Icon -->
+  <g transform="translate(256, 1280)">
+    <rect width="256" height="256" rx="60" fill="#3ECF8E"/>
+    <path d="M70 140L128 60L186 140H70Z" fill="white"/>
+    <path d="M186 116L128 196L70 116H186Z" fill="white" opacity="0.7"/>
+  </g>
+
+  <!-- Firebase Icon -->
+  <g transform="translate(512, 1280)">
+    <rect width="256" height="256" rx="60" fill="#FFCA28"/>
+    <path d="M85 80L105 120L128 50L85 80Z" fill="#FFA000"/>
+    <path d="M105 120L128 180L170 160L105 120Z" fill="#F57C00"/>
+    <path d="M128 50L128 180L170 160L128 50Z" fill="#FFCA28"/>
+  </g>
+
+  <!-- Azure Icon -->
+  <g transform="translate(768, 1280)">
+    <rect width="256" height="256" rx="60" fill="#0089D6"/>
+    <path d="M80 90L128 60L176 90L128 180L80 90Z" fill="url(#paint_azure)"/>
+    <path d="M90 100L128 75L166 100L128 165L90 100Z" fill="white"/>
+    <defs>
+      <linearGradient id="paint_azure" x1="80" y1="60" x2="176" y2="180" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#0089D6"/>
+        <stop offset="1" stop-color="#005BA1"/>
+      </linearGradient>
+    </defs>
+  </g>
+
+  <!-- Google Cloud Icon -->
+  <g transform="translate(0, 1280)">
+    <rect width="256" height="256" rx="60" fill="#4285F4"/>
+    <path d="M180 100L156 76L128 104L156 132L180 108V100Z" fill="#EA4335"/>
+    <path d="M156 76L128 48L76 100L100 124L128 104L156 76Z" fill="#FBBC04"/>
+    <path d="M76 100L76 156L100 180L128 152L100 124L76 100Z" fill="#34A853"/>
+    <path d="M128 104L128 152L180 108V100L156 76L128 104Z" fill="#4285F4"/>
+  </g>
+
+  <!-- AWS Icon -->
+  <g transform="translate(256, 1280)">
+    <rect width="256" height="256" rx="60" fill="#232F3E"/>
+    <path d="M100 100C90 110 90 125 100 135L110 125C105 120 105 115 110 110L100 100Z" fill="#FF9900"/>
+    <path d="M128 85L118 95C123 100 123 105 118 110L128 120C138 110 138 95 128 85Z" fill="#FF9900"/>
+    <path d="M156 100L146 110C151 115 151 120 146 125L156 135C166 125 166 110 156 100Z" fill="#FF9900"/>
+    <path d="M70 150H186" stroke="#FF9900" stroke-width="8" stroke-linecap="round"/>
+    <path d="M85 165C85 165 100 175 128 175C156 175 171 165 171 165" stroke="#FF9900" stroke-width="6" fill="none" stroke-linecap="round"/>
+  </g>
+
+</svg>
